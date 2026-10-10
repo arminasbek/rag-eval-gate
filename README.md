@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abe-source/rag-eval-gate/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-22d3ee.svg" alt="MIT License"></a>
+  <a href="https://github.com/arminasbek/rag-eval-gate/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-22d3ee.svg" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/node-%3E%3D24-22d3ee.svg" alt="Node >= 24">
   <img src="https://img.shields.io/badge/TypeScript-5-22d3ee.svg" alt="TypeScript 5">
   <img src="https://img.shields.io/badge/evals-DeepEval--TS-22d3ee.svg" alt="DeepEval-TS">
